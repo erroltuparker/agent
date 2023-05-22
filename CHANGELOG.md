@@ -13,9 +13,11 @@ Main (unreleased)
 v0.34.0-rc.1 (2023-06-02)
 --------------------
 
-### Bugs
+### Bugfixes
 
 - Fix issue where using exporters in modules failed due to not passing the in-memory address dialer. (@mattdurham)
+
+- Fix an issue where tailing a log file that is rotated periodically could result in a goroutine leak. (@thampiotr)
 
 v0.34.0-rc.0 (2023-06-01)
 --------------------
