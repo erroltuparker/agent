@@ -10,7 +10,7 @@ import (
 	"gopkg.in/yaml.v2"
 )
 
-//go:generate curl https://raw.githubusercontent.com/prometheus/snmp_exporter/v0.20.0/snmp.yml --output snmp.yml
+//go:generate curl https://raw.githubusercontent.com/prometheus/snmp_exporter/8db8ef005006f5a2c4d82accf591518cf6c165b2/snmp.yml --output snmp.yml
 //go:generate gzip -9 snmp.yml
 //go:embed snmp.yml.gz
 var content []byte

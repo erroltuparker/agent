@@ -1759,6 +1759,8 @@ github.com/gorilla/websocket v1.5.0 h1:PPwGk2jz7EePpoHN/+ClbZu8SPxiqlu12wZP/3sWm
 github.com/gorilla/websocket v1.5.0/go.mod h1:YR8l580nyteQvAITg2hZ9XVh4b55+EU/adAjf1fMHhE=
 github.com/gosnmp/gosnmp v1.34.0 h1:p96iiNTTdL4ZYspPC3leSKXiHfE1NiIYffMu9100p5E=
 github.com/gosnmp/gosnmp v1.34.0/go.mod h1:QWTRprXN9haHFof3P96XTDYc46boCGAh5IXp0DniEx4=
+github.com/gosnmp/gosnmp v1.35.0 h1:EuWWNPxTCdAUx2/NbQcSa3WdNxjzpy4Phv57b4MWpJM=
+github.com/gosnmp/gosnmp v1.35.0/go.mod h1:2AvKZ3n9aEl5TJEo/fFmf/FGO4Nj4cVeEc5yuk88CYc=
 github.com/gotestyourself/gotestyourself v2.2.0+incompatible/go.mod h1:zZKM6oeNM8k+FRljX1mnzVYeS8wiGgQyvST1/GafPbY=
 github.com/grafana/ckit v0.0.0-20230518140533-fbd338b33964 h1:rJIMh9u7TBoq58tE8cMDypz7qNuzI42HHWxddJESDW8=
 github.com/grafana/ckit v0.0.0-20230518140533-fbd338b33964/go.mod h1:HcHGszFkeYCuFbWt6qt72rnZRHwbR2BhQBGHWqe4AqU=
@@ -2869,6 +2871,8 @@ github.com/prometheus/node_exporter v1.5.0 h1:Mzrd6WUCyLK5bVWseigL40yZpiSjDOOgVt
 github.com/prometheus/node_exporter v1.5.0/go.mod h1:JXU9+YWUCVaBf7kbWxyEbV5fi8sSuShCduIUmkXGJ6g=
 github.com/prometheus/procfs v0.8.0 h1:ODq8ZFEaYeCaZOJlZZdJA2AbQR98dSHSM1KW/You5mo=
 github.com/prometheus/procfs v0.8.0/go.mod h1:z7EfXMXOkbkqb9IINtpCn86r/to3BnA0uaxHdg830/4=
+github.com/prometheus/snmp_exporter v0.21.1-0.20230503163652-8db8ef005006 h1:wds92QES/jXCtMr9D6aIzdRuMMrqMAv2nJ60QY+zHU4=
+github.com/prometheus/snmp_exporter v0.21.1-0.20230503163652-8db8ef005006/go.mod h1:3/gAsQu6uu6EK5T/eyOKqAV0LLUbaxRf75OmTrhS+ME=
 github.com/prometheus/statsd_exporter v0.22.7/go.mod h1:N/TevpjkIh9ccs6nuzY3jQn9dFqnUakOjnEuMPJJJnI=
 github.com/prometheus/statsd_exporter v0.22.8 h1:Qo2D9ZzaQG+id9i5NYNGmbf1aa/KxKbB9aKfMS+Yib0=
 github.com/prometheus/statsd_exporter v0.22.8/go.mod h1:/DzwbTEaFTE0Ojz5PqcSk6+PFHOPWGxdXVr6yC8eFOM=
