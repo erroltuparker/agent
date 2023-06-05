@@ -638,6 +638,7 @@ github.com/alicebob/gopher-json v0.0.0-20200520072559-a9ecdc9d1d3a/go.mod h1:SGn
 github.com/alicebob/miniredis v2.5.0+incompatible h1:yBHoLpsyjupjz3NL3MhKMVkR41j82Yjf3KFv7ApYzUI=
 github.com/alicebob/miniredis/v2 v2.14.3/go.mod h1:gquAfGbzn92jvtrSC69+6zZnwSODVXVpYDRaGhWaL6I=
 github.com/alicebob/miniredis/v2 v2.30.0 h1:uA3uhDbCxfO9+DI/DuGeAMr9qI+noVWwGPNTFuKID5M=
+github.com/alicebob/miniredis/v2 v2.30.2 h1:lc1UAUT9ZA7h4srlfBmBt2aorm5Yftk9nBjxz7EyY9I=
 github.com/aliyun/aliyun-oss-go-sdk v2.0.4+incompatible/go.mod h1:T/Aws4fEfogEE9v+HPhhw+CntffsBHJ8nXQCwKr0/g8=
 github.com/amir/raidman v0.0.0-20170415203553-1ccc43bfb9c9/go.mod h1:eliMa/PW+RDr2QLWRmLH1R1ZA4RInpmvOzDDXtaIZkc=
 github.com/andreyvit/diff v0.0.0-20170406064948-c7f18ee00883/go.mod h1:rCTlJbsFo29Kk6CurOXKm700vrz8f0KW0JNfpkRJY/8=
@@ -1788,6 +1789,7 @@ github.com/grafana/dskit v0.0.0-20211021180445-3bd016e9d7f1/go.mod h1:uPG2nyK4Ct
 github.com/grafana/dskit v0.0.0-20230201083518-528d8a7d52f2 h1:IOks+FXJ6iO/pfbaVEf4efNw+YzYBYNCkCabyrbkFTM=
 github.com/grafana/dskit v0.0.0-20230201083518-528d8a7d52f2/go.mod h1:zj+5BNZAVmQafV583uLTAOzRr963KPdEm4d6NPmtbwg=
 github.com/grafana/dskit v0.0.0-20230417151531-1725bcc1e9a1/go.mod h1:31wpEibXmd1yC7sUBw1ilN9dhWatwQwbcOAbZGtTr/M=
+github.com/grafana/dskit v0.0.0-20230518162305-3c92c534827e/go.mod h1:M03k2fzuQ2n9TVE1xfVKTESibxsXdw0wYfWT3+9Owp4=
 github.com/grafana/github-exporter v0.0.0-20230418063919-fa34e926116a h1:pvi8kX3TWSQcdHNFDxUOyItgUqebu3vtbA2L/tMYX7w=
 github.com/grafana/github-exporter v0.0.0-20230418063919-fa34e926116a/go.mod h1:6XoOvFDTfk3aqGaOLHLxoWiZNx4zHobApOhKc3oHF/g=
 github.com/grafana/go-gelf/v2 v2.0.1 h1:BOChP0h/jLeD+7F9mL7tq10xVkDG15he3T1zHuQaWak=
@@ -1800,6 +1802,8 @@ github.com/grafana/loki v1.6.2-0.20230414223651-220cbdd4f172 h1:/zfw3KeHb5W7FIRI
 github.com/grafana/loki v1.6.2-0.20230414223651-220cbdd4f172/go.mod h1:gMEIqi1Gc7wJBK7p70LU0fFGXHLYD/m7qK5Jo3cZmRc=
 github.com/grafana/loki v1.6.2-0.20230522153400-ac4a442291cc h1:azB6ffnDBdzqmDHxv38tQmZ6GL+nn2a9H7GPpVM4PeQ=
 github.com/grafana/loki v1.6.2-0.20230522153400-ac4a442291cc/go.mod h1:TMLcYVS0E9/Uh0TkcxKOsoakXVd/TGmY3wzmxhnqUbA=
+github.com/grafana/loki v1.6.2-0.20230605151533-4d184de6debd h1:6K3Ta60yoMpxkZ4aaF7lH2pi36aghYzHznE8hY8pVvE=
+github.com/grafana/loki v1.6.2-0.20230605151533-4d184de6debd/go.mod h1:fKgEtZMRbfPYreebQK8vuNnVZRQ6BDieGOPyr6rr7qQ=
 github.com/grafana/loki/pkg/push v0.0.0-20230127102416-571f88bc5765 h1:VXitROTlmZtLzvokNe8ZbUKpmwldM4Hy1zdNRO32jKU=
 github.com/grafana/loki/pkg/push v0.0.0-20230127102416-571f88bc5765/go.mod h1:DhJMrd2QInI/1CNtTN43BZuTmkccdizW1jZ+F6aHkhY=
 github.com/grafana/mysqld_exporter v0.12.2-0.20201015182516-5ac885b2d38a h1:D5NSR64/6xMXnSFD9y1m1DPYIcBcHvtfeuI9/M/0qtI=
@@ -2967,6 +2971,7 @@ github.com/seccomp/libseccomp-golang v0.9.2-0.20220502022130-f33da4d89646/go.mod
 github.com/segmentio/fasthash v0.0.0-20180216231524-a72b379d632e/go.mod h1:tm/wZFQ8e24NYaBGIlnO2WGCAi67re4HHuOm0sftE/M=
 github.com/sercand/kuberesolver v2.4.0+incompatible h1:WE2OlRf6wjLxHwNkkFLQGaZcVLEXjMjBPjjEU5vksH8=
 github.com/sercand/kuberesolver v2.4.0+incompatible/go.mod h1:lWF3GL0xptCB/vCiJPl/ZshwPsX/n4Y7u0CW9E7aQIQ=
+github.com/sercand/kuberesolver/v4 v4.0.0/go.mod h1:F4RGyuRmMAjeXHKL+w4P7AwUnPceEAPAhxUgXZjKgvM=
 github.com/sergi/go-diff v1.0.0/go.mod h1:0CfEIISq7TuYL3j771MWULgwwjU+GofnZX9QAmXWZgo=
 github.com/sergi/go-diff v1.1.0/go.mod h1:STckp+ISIX8hZLjrqAeVduY0gWCT9IjLuqbuNXdaHfM=
 github.com/sergi/go-diff v1.2.0 h1:XU+rvMAioB0UC3q1MFrIQy4Vo5/4VsRDQQXHsEya6xQ=
@@ -3204,6 +3209,7 @@ github.com/weaveworks/common v0.0.0-20210913144402-035033b78a78/go.mod h1:YU9Fvn
 github.com/weaveworks/common v0.0.0-20221201103051-7c2720a9024d h1:9Z/HiqeGN+LOnmotAMpFEQjuXZ4AGAVFG0rC1laP5Go=
 github.com/weaveworks/common v0.0.0-20221201103051-7c2720a9024d/go.mod h1:Fnq3+U51tMkPRMC6Wr7zKGUeFFYX4YjNrNK50iU0fcE=
 github.com/weaveworks/common v0.0.0-20230119144549-0aaa5abd1e63/go.mod h1:KoQ+3z63GUJzQ7AhU0AWQNU+LPda2EwL/cx1PlbDzVQ=
+github.com/weaveworks/common v0.0.0-20230511094633-334485600903/go.mod h1:rgbeLfJUtEr+G74cwFPR1k/4N0kDeaeSv/qhUNE4hm8=
 github.com/weaveworks/promrus v1.2.0 h1:jOLf6pe6/vss4qGHjXmGz4oDJQA+AOCqEL3FvvZGz7M=
 github.com/weaveworks/promrus v1.2.0/go.mod h1:SaE82+OJ91yqjrE1rsvBWVzNZKcHYFtMUyS1+Ogs/KA=
 github.com/webdevops/azure-metrics-exporter v0.0.0-20230502203721-b2bfd97b5313 h1:FhZihr479Z9UK+yFNLbAucgtKspEZcrJoHZh3XjNMiQ=
@@ -3265,6 +3271,7 @@ github.com/yuin/goldmark v1.4.13/go.mod h1:6yULJ656Px+3vBD8DxQVa3kxgyrAnzto9xy5t
 github.com/yuin/gopher-lua v0.0.0-20180630135845-46796da1b0b4/go.mod h1:aEV29XrmTYFr3CiRxZeGHpkvbwq+prZduBqMaascyCU=
 github.com/yuin/gopher-lua v0.0.0-20200816102855-ee81675732da/go.mod h1:E1AXubJBdNmFERAOucpDIxNzeGfLzg0mYh+UfMWdChA=
 github.com/yuin/gopher-lua v0.0.0-20220504180219-658193537a64 h1:5mLPGnFdSsevFRFc9q3yYbBkB6tsm4aCwwQV/j1JQAQ=
+github.com/yuin/gopher-lua v1.1.0 h1:BojcDhfyDWgU2f2TOzYK/g5p2gxMrku8oupLDqlnSqE=
 github.com/yusufpapurcu/wmi v1.2.2 h1:KBNDSne4vP5mbSWnJbO+51IMOXJB67QiYCSBrubbPRg=
 github.com/yusufpapurcu/wmi v1.2.2/go.mod h1:SBZ9tNy3G9/m5Oi98Zks0QjeHVDvuK0qfxQmPyzfmi0=
 github.com/yvasiyarov/go-metrics v0.0.0-20140926110328-57bccd1ccd43/go.mod h1:aX5oPXxHm3bOH+xeAttToC8pqch2ScQN/JoXYupl6xs=

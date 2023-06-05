@@ -53,9 +53,9 @@ require (
 	github.com/gorilla/mux v1.8.0
 	github.com/grafana/ckit v0.0.0-20230518140533-fbd338b33964
 	github.com/grafana/cloudflare-go v0.0.0-20230110200409-c627cf6792f2
-	github.com/grafana/dskit v0.0.0-20230417151531-1725bcc1e9a1
+	github.com/grafana/dskit v0.0.0-20230518162305-3c92c534827e
 	github.com/grafana/go-gelf/v2 v2.0.1
-	github.com/grafana/loki v1.6.2-0.20230522153400-ac4a442291cc // k146 branch
+	github.com/grafana/loki v1.6.2-0.20230605151533-4d184de6debd // k152 branch
 	github.com/grafana/phlare/api v0.1.2
 	github.com/grafana/regexp v0.0.0-20221122212121-6b5c0a4cb7fd
 	github.com/grafana/snowflake-prometheus-exporter v0.0.0-20221213150626-862cad8e9538
@@ -150,7 +150,7 @@ require (
 	github.com/testcontainers/testcontainers-go v0.19.0
 	github.com/uber/jaeger-client-go v2.30.0+incompatible
 	github.com/vincent-petithory/dataurl v1.0.0
-	github.com/weaveworks/common v0.0.0-20230119144549-0aaa5abd1e63
+	github.com/weaveworks/common v0.0.0-20230511094633-334485600903
 	github.com/webdevops/azure-metrics-exporter v0.0.0-20230502203721-b2bfd97b5313
 	github.com/webdevops/go-common v0.0.0-20230502000651-d37d46be8ee7
 	github.com/wk8/go-ordered-map v0.2.0
@@ -183,7 +183,7 @@ require (
 	golang.org/x/text v0.9.0
 	golang.org/x/time v0.3.0
 	google.golang.org/api v0.114.0
-	google.golang.org/grpc v1.53.0
+	google.golang.org/grpc v1.55.0
 	google.golang.org/protobuf v1.30.0
 	gopkg.in/alecthomas/kingpin.v2 v2.2.6
 	gopkg.in/yaml.v2 v2.4.0
