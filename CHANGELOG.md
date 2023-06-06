@@ -10,6 +10,10 @@ internal API changes are not present.
 Main (unreleased)
 -----------------
 
+### Bugfixes
+
+- Fix an issue where tailing a log file that is rotated periodically could result in a goroutine leak. (@thampiotr)
+
 v0.34.0-rc.1 (2023-06-02)
 --------------------
 
@@ -17,7 +21,7 @@ v0.34.0-rc.1 (2023-06-02)
 
 - Fix issue where using exporters in modules failed due to not passing the in-memory address dialer. (@mattdurham)
 
-- Fix an issue where tailing a log file that is rotated periodically could result in a goroutine leak. (@thampiotr)
+- Fix issue where updating some modules' config (e.g. `loki.process`) could lead to a panic. (@thampiotr)
 
 v0.34.0-rc.0 (2023-06-01)
 --------------------
